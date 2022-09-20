@@ -1,5 +1,3 @@
-// Shoval Weinstock 209540731
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
